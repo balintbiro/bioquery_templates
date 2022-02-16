@@ -5,7 +5,7 @@ The databases that have been queried are the followings:
 
 <img src="https://plants.ensembl.org/img/ensembl_logo.png" width="350" height="100">
 
-<img src="https://genome.ucsc.edu/images/ucscHelixLogo.png" width="350" height="100">
+<img src="https://genome.ucsc.edu/images/ucscHelixLogo.png" width="250" height="90">
 
 ![biomaRt logo](https://upload.wikimedia.org/wikipedia/commons/2/20/BioMartLogo.png)
 
