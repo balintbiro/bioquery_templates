@@ -14,4 +14,4 @@ USE oryCun2;
 SHOW TABLES;
 
 --select the repeats that are located on the 10th chromosome from the repeatmasker (rmsk) table
-SELECT * FROM rmsk WHERE genoName='chr10;
+SELECT * FROM rmsk WHERE genoName='chr10';
